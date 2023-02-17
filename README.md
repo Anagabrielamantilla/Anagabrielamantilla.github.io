@@ -1,1 +1,1 @@
-# Programación Científica con Python
+# Programación Científica con Python: un enfoque en las geociencias
